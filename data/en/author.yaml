@@ -1,0 +1,16 @@
+name: "Michel Cantacuzene"
+#nickname: "Mich"
+
+greetings: "I am"
+image: "images/author/michmich112.jpg"
+
+contactInfo:
+  email: "cantacuzene.michel@gmail.com"
+  github: michmich112
+  linkedin: michel-cantacuzene
+
+summary:
+  - I am an Entrepreneur
+  - I am a Product Manager
+  - I work with Artificial Intelligence
+  - I love open-source projects

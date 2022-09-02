@@ -1,0 +1,39 @@
+baseURL: "https://michmich112.github.io"
+languageCode: "en-us"
+title: "Michel Cantacuzene"
+theme: "toha"
+
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+enableEmoji: true
+
+params:
+  gitRepo: https://github.com/michmich112/michmich112.github.io
+  gitBranch: main
+
+  # Will enable once i've added some
+  #enableBlogPost: true
+  enableBlogPosts: false
+
+  enableTOC: true
+
+  newsletter:
+    # disable for now
+    enable: false
+
+  background: "images/ai-background.jpeg"
+
+  darkMode:
+    enable: true
+    provider: darkreader
+    default: dark
