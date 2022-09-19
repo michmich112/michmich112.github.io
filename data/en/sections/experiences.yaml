@@ -1,0 +1,42 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+experiences:
+  - company:
+      name: Carnegie Mellon University
+      url: "https://cmu.edu"
+      location: Mountain View, CA, United States
+    positions:
+      - designation: Teaching Assistant
+        start: August 2022
+        responsibilities:
+          - Supporting two graduate level classes while taking a full course load
+          - Teaching Assistant for the Software Engineering Management course offered at the Graduate Level.
+          - Teaching Assistant for the Software Management Practicum course offered to Graduate Students in the Integrated Innovation Institute.
+  - company:
+      name: Walmart Global Tech
+      url: "https://careers.walmart.com/technology"
+      location: Tampa, FL, United States
+      overview: Walmart Global Tech is Walmart's Technology, Research and Innovation branch
+    positions:
+      - designation: Product Manager Intern
+        start: May 2022
+        end: August 2022
+        responsibilities:
+          - Defined and Owned KPI for inventory management for Walmart's automated distribution centers, increasing visibility to on-site associates and leadership.
+          - Identified and corrected 3 high impact product problems resulting in a reduction of 10% in the asssociated issues and the people-hours spent on investigating them.
+  - company:
+      name: Cook it
+      url: "https://chefcookit.com/en"
+      location: Montreal, QC, Canada
+      overview: Cook it is Canada's first meal kit.
+    positions:
+      - designation: Technical Product Manager
+        start: December 2020
+        end: August 2021
+        responsibilities:
+          - Created the new Process Management Software suite as its Product Manager and led a team of 3 developers to build it, resulting in a 15% improvement in 4 weeks of starting
