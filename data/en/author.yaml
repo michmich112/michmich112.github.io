@@ -8,6 +8,21 @@ contactInfo:
   email: "cantacuzene.michel@gmail.com"
   github: michmich112
   linkedin: michel-cantacuzene
+  stack-overflow:
+    icon: stack-overflow
+    url: "https://stackoverflow.com/users/11521081/michmich112"
+    text: "michmich112"
+  medium:
+    icon: "medium"
+    url: "https://medium.com/@michmich112"
+    text: michmich112
+  dev-to:
+    icon: dev
+    url: "https://dev.to/michmich112"
+    text: michmich112
+  polywork:
+    url: "https://polywork/michmich"
+    text: michmich
 
 summary:
   - I am an Entrepreneur
